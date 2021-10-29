@@ -7,6 +7,11 @@ __pycache__
 .pytest
 .pytest_cache
 
+# terraform
+*.tfstate*
+*.tfvars*
+.terraform*
+
 # virtual environment artifacts
 .venv
 .venvs

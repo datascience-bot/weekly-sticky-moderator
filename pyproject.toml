@@ -17,6 +17,7 @@ version = "0.0.0"
 
 [tool.poetry.dependencies]
 python = "^3.8"
+boto3 = "^1.19.6"
 praw = "^7.4.0"
 
 [tool.poetry.dev-dependencies]
